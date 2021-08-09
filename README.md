@@ -1,7 +1,7 @@
 # mycode
 Tracking my code
 
-I am an IT student interested in learning Python coding.
+I want to learn how to version control projects with git.
 
 ## Getting Started
 
